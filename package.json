@@ -2,10 +2,10 @@
   "name": "vinted-discord-bot",
   "version": "1.0.0",
   "description": "Bot Discord de surveillance Vinted (FR/UK/PL)",
-  "main": "src/bot.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node src/bot.js",
-    "dev": "node --watch src/bot.js"
+    "start": "node bot.js",
+    "dev": "node --watch bot.js"
   },
   "dependencies": {
     "discord.js": "^14.15.3",
